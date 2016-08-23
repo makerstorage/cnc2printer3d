@@ -1,5 +1,5 @@
 
-Credits
+# Credits
 
 This application uses Open Source components. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
 
@@ -11,17 +11,17 @@ https://www.arduino.cc/en/Reference/LiquidCrystal
 ----
 
 Arduino-PID-Library
-***************************************************************
-* Arduino PID Library - Version 1.1.1
-* by Brett Beauregard <br3ttb@gmail.com> brettbeauregard.com
-*
-* This Library is licensed under a GPLv3 License
-***************************************************************
 
- - For an ultra-detailed explanation of why the code is the way it is, please visit: 
-   http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/
+Arduino PID Library - Version 1.1.1
+by Brett Beauregard <br3ttb@gmail.com> brettbeauregard.com
 
- - For function documentation see:  http://playground.arduino.cc/Code/PIDLibrary
+This Library is licensed under a GPLv3 License
+
+
+For an ultra-detailed explanation of why the code is the way it is, please visit: 
+http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/
+
+For function documentation see:  http://playground.arduino.cc/Code/PIDLibrary
 
 ----
 
