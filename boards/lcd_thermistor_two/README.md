@@ -1,3 +1,6 @@
+[<img src="lcd_thermistor_two.jpg>]()
+
+
 LCD Thermistor Two Channel Extruder Controller (gecs2ts1)
 
 For more details, check out the product pages at
