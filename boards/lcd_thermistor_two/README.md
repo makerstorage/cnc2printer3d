@@ -1,4 +1,4 @@
-[<img src="lcd_thermistor_two.jpg>]()
+[<img src="lcd_thermistor_two.jpg>]
 
 
 LCD Thermistor Two Channel Extruder Controller (gecs2ts1)
