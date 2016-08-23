@@ -1,3 +1,5 @@
+![Seven Segment Thermistor One Channel Extruder Controller](seven_seg_thermistor_one.jpg)
+
 Seven Segment Thermistor One Channel Extruder Controller
 
 For more details, check out the product pages at

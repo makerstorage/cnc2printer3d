@@ -1,3 +1,5 @@
+![LCD Thermocouple Two Channel Extruder Controller](lcd_thermocouple_two.jpg)
+
 LCD Thermocouple Two Channel Extruder Controller (gecs2tc1)
 
 For more details, check out the product pages at
