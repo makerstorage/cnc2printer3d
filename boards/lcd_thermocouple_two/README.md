@@ -1,8 +1,8 @@
-Seven Segment Thermistor One Channel Extruder Controller
+LCD Thermocouple Two Channel Extruder Controller (gecs2tc1)
 
 For more details, check out the product pages at
 
-https://cnc2printer3d.wordpress.com/seven-segment-single-channel-extruder-controller/
+https://cnc2printer3d.wordpress.com/gecs2tc1/
 
 MakerStorage invests time and resources providing this open source design, please support MakerStorage and open-source hardware by purchasing products from MakerStorage!
 
