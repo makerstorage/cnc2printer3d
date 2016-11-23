@@ -4,6 +4,10 @@ For more details, check out the project pages at
 
 https://cnc2printer3d.wordpress.com/
 
+And our store at
+
+http://makerstorage.com/index.php
+
 We enjoy sharing theses ideas with you all and any contributions, comments and or feedback is invited.
 
 Community, Collaboration and Sharing is our most important assets.
